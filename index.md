@@ -4,6 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>sfAlex</title>
+  <meta property="og:title" content="sfAlex">
+  <meta property="og:description" content="Personal website of Alex Rom – entrepreneur, engineer, and advisor based in San Francisco.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://sfalex.com">
+  <meta property="og:image" content="https://media.licdn.com/dms/image/v2/D5603AQFWDa1Y6O2jTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704567609745?e=1749686400&v=beta&t=kjr5yCFjwljbNqlWHF4W-3XD5lX6X8Z8-0cDNlIFW6A">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="sfAlex">
+  <meta name="twitter:description" content="Hardware engineer & startup founder. Discover my projects and experience.">
+  <meta name="twitter:image" content="https://media.licdn.com/dms/image/v2/D5603AQFWDa1Y6O2jTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704567609745?e=1749686400&v=beta&t=kjr5yCFjwljbNqlWHF4W-3XD5lX6X8Z8-0cDNlIFW6A">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <meta name="description" content="Personal website of Alex Rom, a hardware engineer, entrepreneur, and advisor based in San Francisco.">
+  <meta name="keywords" content="Alex Rom, sfAlex, entrepreneur, hardware engineer, O-1 visa, San Francisco, startup advisor">
+  <meta name="author" content="Alex Rom">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -54,11 +67,14 @@
 <body>
   <header>
     <h1>sfAlex</h1>
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQFWDa1Y6O2jTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704567609745?e=1749686400&v=beta&t=kjr5yCFjwljbNqlWHF4W-3XD5lX6X8Z8-0cDNlIFW6A" alt="Alex Rom Photo" style="width: 150px; max-width: 100%; border-radius: 50%; margin: 10px auto; display: block;">
     <p>Alex Rom</p>
     <nav>
-      <a href="https://www.linkedin.com/in/sfalexcom" target="_blank">LinkedIn: sfalexcom</a>
-      <a href="https://www.facebook.com/sfalexfb" target="_blank">Facebook: sfalexfb</a>
+      <a href="https://www.linkedin.com/in/sfalexcom" target="_blank">LinkedIn</a>
+      <a href="https://www.facebook.com/sfalexfb" target="_blank">Facebook</a>
       <a href="https://kitSF.com" target="_blank">kitSF.com</a>
+      <a href="https://uDevs.com" target="_blank">uDevs.com</a>
+      <a href="https://openaiSF.com" target="_blank">openaiSF.com</a>
       <a href="https://trinityua.com" target="_blank">trinityua.com</a>
     </nav>
     <p>📍 San Francisco, CA, US</p>
@@ -136,7 +152,10 @@
       <h2>Education</h2>
       <p>🎓 Stanford University Graduate School of Business</p>
     </section>
-  </main>
+  <section style="text-align: center; margin-bottom: 30px;">
+  <p><a href="https://www.facebook.com/sfalexfb" target="_blank">Contact via Facebook</a></p>
+</section>
+
 
   <footer>
     <p>&copy; 2025 sfAlex. All rights reserved.</p>

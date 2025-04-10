@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <!-- Set character encoding and viewport for responsiveness -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sfAlex - Alex Rom</title>
+  <style>
+    /* Basic styles for the site */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+    nav a {
+      margin-right: 15px;
+      text-decoration: none;
+      color: #0645AD;
+    }
+    main section {
+      margin-bottom: 20px;
+      background: #fff;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h1, h2, h3 {
+      color: #222;
+    }
+    .experience {
+      margin-bottom: 20px;
+    }
+    .position {
+      font-weight: bold;
+    }
+    .duration {
+      color: #777;
+      font-size: 0.9em;
+    }
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 0.85em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Website header with title and navigation links -->
+    <h1>sfAlex</h1>
+    <p>Alex Rom</p>
+    <nav>
+      <a href="https://www.linkedin.com/in/sfalexcom" target="_blank">LinkedIn</a>
+      <a href="https://www.facebook.com/sfalexfb" target="_blank">Facebook</a>
+      <a href="https://kitSF.com" target="_blank">1st</a>
+      <a href="https://trinityua.com" target="_blank">2nd</a>
+    </nav>
+    <p>📍 San Francisco, CA, US</p>
+  </header>
+
+  <main>
+    <!-- Overview Section -->
+    <section id="overview">
+      <h2>Overview</h2>
+      <p>🌟 15+ Years of Success</p>
+      <p>👨‍💻 Hardware Engineer & Serial Entrepreneur</p>
+      <p>🌎 Founder of 3 Successful Companies</p>
+      <p>🧠 Advisor at tacticSF.com</p>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about-me">
+      <h2>About Me</h2>
+      <p>👨‍🏫 Recognized by U.S. Immigration as an Alien of Extraordinary Ability in 2015.</p>
+      <p>🌍 1st US Company helping IT specialists gather documents for O-1 visas based on ISA (Income Share Agreement, $10M in 12 months).</p>
+      <p>🔧 Founder of 2 companies in Russia/China (manufacturing based in China).</p>
+      <p>🎓 PhD from Google is on our advisory board.</p>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience">
+      <h2>Experience</h2>
+
+      <div class="experience">
+        <h3>KitSF</h3>
+        <p class="position">Chief Technology Officer (Co-founder)</p>
+        <p class="duration">December 2021 – Present (2 years 9 months)</p>
+        <p>Investing in talented people worldwide: senior software engineers, PhDs, and R&D experts with 10+ years of experience.</p>
+      </div>
+
+      <div class="experience">
+        <h3>SFalex</h3>
+        <p class="position">Product Owner</p>
+        <p class="duration">June 2019 – August 2021 (2 years 3 months)</p>
+        <p>Looking for extraordinary people globally.</p>
+      </div>
+
+      <div class="experience">
+        <h3>Skycob</h3>
+        <p class="position">CTO, Co-founder</p>
+        <p class="duration">April 2017 – February 2019 (1 year 11 months)</p>
+        <p>Helped companies connect with YouTube vloggers for affiliate-based promotional videos.</p>
+      </div>
+
+      <div class="experience">
+        <h3>2for1 Inc.</h3>
+        <p class="position">CTO, Co-founder</p>
+        <p class="duration">September 2012 – April 2017 (4 years 8 months)</p>
+        <p>Developed a B2B big data analysis platform for SMBs to analyze and purchase fashion products.</p>
+      </div>
+
+      <div class="experience">
+        <h3>nTray</h3>
+        <p class="position">CTO, Co-founder</p>
+        <p class="duration">September 2008 – September 2012 (4 years 1 month)</p>
+        <p>Led international expansion and strategic partnerships, growing the business in major markets including China, Europe, and Latin America.</p>
+      </div>
+
+      <div class="experience">
+        <h3>INLAN</h3>
+        <p class="position">CTO, Co-founder</p>
+        <p class="duration">May 2003 – September 2008 (5 years 5 months)</p>
+        <p>Developed hardware and software for the largest banks in Russia, Ukraine, and other countries.</p>
+      </div>
+    </section>
+
+    <!-- Honors & Awards Section -->
+    <section id="honors">
+      <h2>Honors & Awards</h2>
+      <p>🏆 Recognized by U.S. Immigration as an “Alien of Extraordinary Ability” (2015).</p>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education">
+      <h2>Education</h2>
+      <p>🎓 Stanford University Graduate School of Business</p>
+    </section>
+  </main>
+
+  <footer>
+    <!-- Footer information -->
+    <p>&copy; 2025 sfAlex. All rights reserved.</p>
+  </footer>
+</body>
+</html>

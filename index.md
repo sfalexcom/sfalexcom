@@ -1,12 +1,23 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
-  <!-- Set character encoding and viewport for responsiveness -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>sfAlex - Alex Rom</title>
+  <title>sfAlex</title>
+  <meta property="og:title" content="sfAlex">
+  <meta property="og:description" content="Personal website of Alex Rom – entrepreneur, engineer, and advisor based in San Francisco.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://sfalex.com">
+  <meta property="og:image" content="https://media.licdn.com/dms/image/v2/D5603AQFWDa1Y6O2jTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704567609745?e=1749686400&v=beta&t=kjr5yCFjwljbNqlWHF4W-3XD5lX6X8Z8-0cDNlIFW6A">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="sfAlex">
+  <meta name="twitter:description" content="Hardware engineer & startup founder. Discover my projects and experience.">
+  <meta name="twitter:image" content="https://media.licdn.com/dms/image/v2/D5603AQFWDa1Y6O2jTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704567609745?e=1749686400&v=beta&t=kjr5yCFjwljbNqlWHF4W-3XD5lX6X8Z8-0cDNlIFW6A">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <meta name="description" content="Personal website of Alex Rom, a hardware engineer, entrepreneur, and advisor based in San Francisco.">
+  <meta name="keywords" content="Alex Rom, sfAlex, entrepreneur, hardware engineer, O-1 visa, San Francisco, startup advisor">
+  <meta name="author" content="Alex Rom">
   <style>
-    /* Basic styles for the site */
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
@@ -18,6 +29,7 @@
       border-bottom: 1px solid #ccc;
       padding-bottom: 10px;
       margin-bottom: 20px;
+      text-align: center;
     }
     nav a {
       margin-right: 15px;
@@ -54,20 +66,21 @@
 </head>
 <body>
   <header>
-    <!-- Website header with title and navigation links -->
     <h1>sfAlex</h1>
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQFWDa1Y6O2jTQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704567609745?e=1749686400&v=beta&t=kjr5yCFjwljbNqlWHF4W-3XD5lX6X8Z8-0cDNlIFW6A" alt="Alex Rom Photo" style="width: 150px; max-width: 100%; border-radius: 50%; margin: 10px auto; display: block;">
     <p>Alex Rom</p>
     <nav>
       <a href="https://www.linkedin.com/in/sfalexcom" target="_blank">LinkedIn</a>
       <a href="https://www.facebook.com/sfalexfb" target="_blank">Facebook</a>
-      <a href="https://kitSF.com" target="_blank">1st</a>
-      <a href="https://trinityua.com" target="_blank">2nd</a>
+      <a href="https://kitSF.com" target="_blank">kitSF.com</a>
+      <a href="https://uDevs.com" target="_blank">uDevs.com</a>
+      <a href="https://openaiSF.com" target="_blank">openaiSF.com</a>
+      <a href="https://trinityua.com" target="_blank">trinityua.com</a>
     </nav>
     <p>📍 San Francisco, CA, US</p>
   </header>
 
   <main>
-    <!-- Overview Section -->
     <section id="overview">
       <h2>Overview</h2>
       <p>🌟 15+ Years of Success</p>
@@ -76,7 +89,6 @@
       <p>🧠 Advisor at tacticSF.com</p>
     </section>
 
-    <!-- About Me Section -->
     <section id="about-me">
       <h2>About Me</h2>
       <p>👨‍🏫 Recognized by U.S. Immigration as an Alien of Extraordinary Ability in 2015.</p>
@@ -85,7 +97,6 @@
       <p>🎓 PhD from Google is on our advisory board.</p>
     </section>
 
-    <!-- Experience Section -->
     <section id="experience">
       <h2>Experience</h2>
 
@@ -132,21 +143,21 @@
       </div>
     </section>
 
-    <!-- Honors & Awards Section -->
     <section id="honors">
       <h2>Honors & Awards</h2>
       <p>🏆 Recognized by U.S. Immigration as an “Alien of Extraordinary Ability” (2015).</p>
     </section>
 
-    <!-- Education Section -->
     <section id="education">
       <h2>Education</h2>
       <p>🎓 Stanford University Graduate School of Business</p>
     </section>
-  </main>
+  <section style="text-align: center; margin-bottom: 30px;">
+  <p><a href="https://www.facebook.com/sfalexfb" target="_blank">Contact via Facebook</a></p>
+</section>
+
 
   <footer>
-    <!-- Footer information -->
     <p>&copy; 2025 sfAlex. All rights reserved.</p>
   </footer>
 </body>

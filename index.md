@@ -1,12 +1,10 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
-  <!-- Set character encoding and viewport for responsiveness -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>sfAlex - Alex Rom</title>
+  <title>sfAlex</title>
   <style>
-    /* Basic styles for the site */
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
@@ -18,6 +16,7 @@
       border-bottom: 1px solid #ccc;
       padding-bottom: 10px;
       margin-bottom: 20px;
+      text-align: center;
     }
     nav a {
       margin-right: 15px;
@@ -54,20 +53,18 @@
 </head>
 <body>
   <header>
-    <!-- Website header with title and navigation links -->
     <h1>sfAlex</h1>
     <p>Alex Rom</p>
     <nav>
-      <a href="https://www.linkedin.com/in/sfalexcom" target="_blank">LinkedIn</a>
-      <a href="https://www.facebook.com/sfalexfb" target="_blank">Facebook</a>
-      <a href="https://kitSF.com" target="_blank">1st</a>
-      <a href="https://trinityua.com" target="_blank">2nd</a>
+      <a href="https://www.linkedin.com/in/sfalexcom" target="_blank">LinkedIn: sfalexcom</a>
+      <a href="https://www.facebook.com/sfalexfb" target="_blank">Facebook: sfalexfb</a>
+      <a href="https://kitSF.com" target="_blank">kitSF.com</a>
+      <a href="https://trinityua.com" target="_blank">trinityua.com</a>
     </nav>
     <p>📍 San Francisco, CA, US</p>
   </header>
 
   <main>
-    <!-- Overview Section -->
     <section id="overview">
       <h2>Overview</h2>
       <p>🌟 15+ Years of Success</p>
@@ -76,7 +73,6 @@
       <p>🧠 Advisor at tacticSF.com</p>
     </section>
 
-    <!-- About Me Section -->
     <section id="about-me">
       <h2>About Me</h2>
       <p>👨‍🏫 Recognized by U.S. Immigration as an Alien of Extraordinary Ability in 2015.</p>
@@ -85,7 +81,6 @@
       <p>🎓 PhD from Google is on our advisory board.</p>
     </section>
 
-    <!-- Experience Section -->
     <section id="experience">
       <h2>Experience</h2>
 
@@ -132,13 +127,11 @@
       </div>
     </section>
 
-    <!-- Honors & Awards Section -->
     <section id="honors">
       <h2>Honors & Awards</h2>
       <p>🏆 Recognized by U.S. Immigration as an “Alien of Extraordinary Ability” (2015).</p>
     </section>
 
-    <!-- Education Section -->
     <section id="education">
       <h2>Education</h2>
       <p>🎓 Stanford University Graduate School of Business</p>
@@ -146,7 +139,6 @@
   </main>
 
   <footer>
-    <!-- Footer information -->
     <p>&copy; 2025 sfAlex. All rights reserved.</p>
   </footer>
 </body>

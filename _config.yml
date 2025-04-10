@@ -1,0 +1,12 @@
+title: sfAlex
+description: >-
+  Personal website of Alex Rom — hardware engineer, entrepreneur, and advisor.
+remote_theme: alshedivat/al-folio
+
+plugins:
+  - jekyll-remote-theme
+
+# Optional configuration for alshedivat theme
+author: Alex Rom
+email: your@email.com
+location: San Francisco, CA, US

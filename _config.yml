@@ -1,12 +1,21 @@
+# Basic site info
 title: sfAlex
-description: >-
-  Personal website of Alex Rom — hardware engineer, entrepreneur, and advisor.
+description: Personal site of Alex Rom
+baseurl: "" # Leave this empty if deploying to custom domain or GitHub Pages root
+url: "https://sfalex.com" # Your custom domain
+
+# Theme configuration
 remote_theme: alshedivat/al-folio
 
+# Plugins (required for remote_theme)
 plugins:
   - jekyll-remote-theme
 
-# Optional configuration for alshedivat theme
-author: Alex Rom
-email: your@email.com
-location: San Francisco, CA, US
+# Exclude these files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Markdown processor
+markdown: kramdown
